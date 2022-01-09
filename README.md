@@ -1,7 +1,5 @@
 # numpy-tutorial
 
-* numpy_01_内容
-
 * numpy_02_数组创建&属性
   - 创建数组
       - 从List,tuple中初始化数组（np.array, np.asarray）
