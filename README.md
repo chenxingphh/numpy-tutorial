@@ -1,5 +1,7 @@
 # numpy-tutorial
 
+* numpy_01_内容
+
 * numpy_02_数组创建&属性
   - 创建数组
       - 从List,tuple中初始化数组（np.array, np.asarray）
@@ -48,4 +50,3 @@
     - 同位置元素相乘
     - 行列式
     - 逆矩阵（线性方差解）
-
