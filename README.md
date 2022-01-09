@@ -53,3 +53,6 @@
     - 同位置元素相乘
     - 行列式
     - 逆矩阵（线性方差解）
+
+## License
+[MIT LICENSE](LICENSE)
