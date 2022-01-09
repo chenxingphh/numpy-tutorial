@@ -1,9 +1,9 @@
 # numpy-tutorial
 
-    Numpy(Numerical python)是一个用于处理维度数组和矩阵运算的Python三方库。Numpy的运行速度很快，主要包括以下功能：<br>
-    1、提供ndarray的N维数组对象<br>
-    2、数据切片、广播功能 <br>
-    3、随机数生成、线性代数、傅里叶变换等功能<br>
+    Numpy(Numerical python)是一个用于处理维度数组和矩阵运算的Python三方库。Numpy的运行速度很快，主要包括以下功能：
+    1、提供ndarray的N维数组对象
+    2、数据切片、广播功能 
+    3、随机数生成、线性代数、傅里叶变换等功能
 
 * numpy_02_数组创建&属性
   - 创建数组
