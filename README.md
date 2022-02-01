@@ -1,5 +1,7 @@
 # numpy-tutorial
 
+![Alt text](https://github.com/whyAndBetter/numpy-tutorial/blob/main/numpy/np_01.png)
+
     Numpy(Numerical python)是一个用于处理维度数组和矩阵运算的Python三方库。Numpy的运行速度很快，主要包括以下功能：
     1、提供ndarray的N维数组对象
     2、数据切片、广播功能 
